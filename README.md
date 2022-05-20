@@ -42,7 +42,7 @@ node client.js
 ### Running as a docker container
 
 ```bash
-docker exec -ti instana-aborted-request node client.js
+docker exec -ti test-instana-aborted-request node client.js
 ```
 
 ## Results
